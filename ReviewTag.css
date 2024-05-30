@@ -1,0 +1,48 @@
+body {
+	background-color: moccasin;
+}
+
+h2 {
+	color: purple;
+	text-align: center;
+}
+
+table, td, th {
+	background-color: skyblue;
+	text-align: center;
+	padding: 5px;
+	border-collapse: collapse;
+	margin: auto;
+}
+
+td {
+	text-align: left;
+}
+
+th.one {
+	text-align: left;
+	width: 29.5%;
+
+}
+
+td.two {
+	width: 45%;
+}
+
+th.three {
+	width: 70.5%
+}
+
+table {
+	border: 1px solid;
+	border-
+}
+
+table.one {
+	border-color: moccasin;
+	width: 20.%6;
+}
+
+p {
+	text-align: center;
+}
